@@ -17,4 +17,4 @@ I built a digital twin of a "Smart Village" to analyze the correlation between s
 - **Risk Mitigation:** Real-time acoustic anomaly monitoring identifies ecological threats before they escalate.
 
 ### 🔗 Visualizations
-[Link to my Tableau Public Dashboard](BURAYA_LINKI_YAPIŞDIR)
+https://public.tableau.com/views/SmartVillageBio-DigitalMetabolism/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
